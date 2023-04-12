@@ -1,0 +1,18 @@
+﻿@using IDENTITY_Cwiczenia.Identity.Models;
+@model UserData
+@{
+}
+
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <label asp-for="Name">Podaj imie:</label>
+    <input type="text" asp-for="Name" />
+    <br />
+    <label asp-for="Email">Podaj Email: </label>
+    <input type="text" asp-for="Email" />
+    <br />
+    <label asp-for="Password">Podaj hasło: </label>
+    <input type="password" asp-for="Password" />
+    <br />
+    <button type="submit">Send</button>
+</form>

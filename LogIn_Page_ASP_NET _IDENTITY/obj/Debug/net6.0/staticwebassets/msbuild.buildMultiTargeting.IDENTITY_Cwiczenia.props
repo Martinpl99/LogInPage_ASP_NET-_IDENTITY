@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IDENTITY_Cwiczenia.props" />
+</Project>
