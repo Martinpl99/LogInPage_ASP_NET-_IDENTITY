@@ -3690,11 +3690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmroz\\Desktop\\repos\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
+      "projectUniqueName": "C:\\Users\\mmroz\\Desktop\\repos\\GIT_Projekty\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
       "projectName": "LogIn_Page_ASP_NET _IDENTITY",
-      "projectPath": "C:\\Users\\mmroz\\Desktop\\repos\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
+      "projectPath": "C:\\Users\\mmroz\\Desktop\\repos\\GIT_Projekty\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
       "packagesPath": "C:\\Users\\mmroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmroz\\Desktop\\repos\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\obj\\",
+      "outputPath": "C:\\Users\\mmroz\\Desktop\\repos\\GIT_Projekty\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mmroz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Tocg9J8dboUtKJTTdrrbYGnJqmkf8ueIHAPIscxqb2/F21FDake40gx4W886O0+Cy/CHBGWTAb54hrcgMfxKA==",
+  "dgSpecHash": "XYoUFPVIxX9rzGOLVgNWTJBmgBiJC18uTaDmHmX47l2Z7EgIwf8vhVE8ue1HtvMCNwt+IuS53W8S9UbVlsoz6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmroz\\Desktop\\repos\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
+  "projectFilePath": "C:\\Users\\mmroz\\Desktop\\repos\\GIT_Projekty\\LogIn_Page_ASP_NET_IDENTITY\\IDENTITY_Cwiczenia\\LogIn_Page_ASP_NET _IDENTITY.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmroz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mmroz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
