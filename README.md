@@ -1,18 +1,18 @@
 # Login Page using ASP.NET 
-This is a web application written using C#, MVC pattern, and identity Framework. It allows us adding new users, with validate properties.
+This is a web application written using C#, MVC pattern, and identity Framework. It allows adding new users, with valid properties.
 
-**For example password requirements are:**
-* Require non alphanumer
-* Require digit
-* Require lowercase
+**Example password requirements:**
+* Non alphanumeric
+* A digit must be included
+* Lowercase only
 
 
 **Email:**
-* Reqular expression to validate Email
+* Regular expression to validate an Email
 
 
 ## Database
-User's data is saved in database, which contain name, email, hashed password. The application uses asynchronous methods to manage database.
+User data is saved in a database, which contains their name, email and hashed password. The application uses asynchronous methods for database management.
 
 ***
 ![image](https://user-images.githubusercontent.com/126328327/233938778-b06c3ac4-952c-4772-9a70-1657fdebeb53.png)
