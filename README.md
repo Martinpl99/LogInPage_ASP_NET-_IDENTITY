@@ -21,5 +21,8 @@ User's data is saved in database, which contain name, email, hashed password. Th
 
 ![image](https://user-images.githubusercontent.com/126328327/233940146-c5d1416b-cb41-4907-8cde-1f27b647f320.png)
 
+![image](https://user-images.githubusercontent.com/126328327/233941064-89a19a41-f3e3-4208-b744-e23afb453cd6.png)
+
+
 
 
